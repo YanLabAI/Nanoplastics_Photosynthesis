@@ -8,8 +8,8 @@ This project develops and applies a machine learning and meta-analysis framework
 2. Elucidating the quantitative relationships between the properties of nanoplastics and co-occurring pollutants and the resulting photosynthetic responses under varying experimental conditions.
 ---
 
--   **/Data**: Contains all datasets used for model training/validation (`ML dataset.xlsx`) and meta-analysis (`Meta dataset.csv`).
--   **/Code**: Contains the main python file (`Model Construction.ipynb`) with the complete machine learning pipeline and the main R file (`Meta Analysis.R`).
+-   **/Data**: Contains all datasets used for model training/validation (`Machine Learning dataset.xlsx`) and meta-analysis (`meta-analysis dataset.csv`).
+-   **/Code**: Contains the main python file (`Machine Learning code.ipynb`) with the complete machine learning pipeline and the main R file (`meta-analysis code.R`).
 
 ---
 
